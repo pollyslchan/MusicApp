@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="collection">Play my music collection</string>
+    <string name="random">Stream random</string>
+    <string name="recommend">See our music recommendation</string>
+    <string name="home">Back to home page</string>
+
+    <string name="collection_description">Play your favourite songs in your music collection here!</string>
+    <string name="random_description">Want some random surprise? Stream our select for today!</string>
+    <string name="recommend_description">Want some ideas of music which you might like? We have some recommendations for you!</string>
+</resources>
